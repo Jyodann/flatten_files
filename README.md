@@ -1,4 +1,4 @@
-# Flatten Files
+# Go Flat - Flatten your directories Easily
 
 ## Introduction
 
