@@ -31,8 +31,8 @@ This app will be made available for Windows, MacOS and Linix
 
 I would like to make it more customizable, so currently I have not made a built version release yet. Here are the following planned changes:
 
-- [ ] Customise path the program runs on
-- [ ] Customise Seperator for File names
+- [x] Customise path the program runs on
+- [x] Customise Seperator for File names
 - [ ] Allow for Sequential renaming of files
 - [ ] Potentially expose a small GUI to make the app more friendly to use
 - [ ] Place a 'cache' folder to let program pick up where it left off (incase of sudden crashes)
